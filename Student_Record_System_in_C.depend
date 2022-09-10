@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600578040 source:c:\users\adones\desktop\code blocks\student_record_system_in_c\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1600656529 source:c:\users\adones\documents\code blocks\student_record_system_in_c\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
